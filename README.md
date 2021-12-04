@@ -1,6 +1,6 @@
 # PINN-AM
 
-A physics-informed neural network for application in additive manufacturing problem. The following article outline our code:
+A physics-informed neural network for application in additive manufacturing problems. The following article outline our code:
 ```
 @article{zhu2021machine,
   title={Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed neural networks},
